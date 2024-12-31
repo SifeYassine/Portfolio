@@ -63,6 +63,10 @@ h6 {
   -webkit-text-fill-color: transparent;
 }
 
+.justify-text {
+  text-align: justify;
+}
+
 a {
   color: inherit;
   text-decoration: inherit;
